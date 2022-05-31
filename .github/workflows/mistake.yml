@@ -1,4 +1,4 @@
-name: "Pull Target Files from Applanga"
+name: "Please delete this"
 on: workflow_dispatch
 jobs:
   pull-translation-in:
